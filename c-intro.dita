@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_is5_pqy_zx">
+ <title>Welcome to Airclassroom!</title>
+ <shortdesc>Founded in November of 2016 and based in Blacksburg, Virginia, Airclassroom is a trusted
+  community marketplace for people to list, discover, and book unique accommodations around
+  Montgomery County, online or from an iPhone or iPad.</shortdesc>
+ <conbody>
+  <p><fig id="fig_es1_w5y_zx">
+        <title>Classroom</title>
+        <image href="i-classroom.jpg" scale="75" id="image_fs1_w5y_zx">
+          <alt>We offer state-of-the-art classrooms for all your academic and business needs</alt>
+        </image>
+      </fig>Whether it is a classroom for a study session or a classroom for a business proposal and
+      presentation, Airclassroom connects people to unique locations in and around Virginia Tech's
+      campus, at any price point, in Southwest, Virginia. And with world-class customer service and
+      a growing community of users, Airclassroom is the easiest way for faculty and staff to
+      monetize their extra space and showcase it to an audience of thousands.<note>The description
+        is adapted from Airbnb's "<xref href="https://www.airbnb.com/about/about-us" format="html"
+          scope="external">About Us</xref>" web page.</note></p>
+ </conbody>
+</concept>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_f4v_wzy_zx">
+    <title>How to Pay for Airclassroom</title>
+    <shortdesc>This section will describe how a customer pays for the room he or she has reserved
+        using the Airclassroom service.</shortdesc>
+    <taskbody>
+        <context>You have picked the space you want to rent. Now, it is time to pay for
+            it!</context>
+        <steps>
+            <step>
+                <cmd><b>Select</b> a form of payment</cmd>
+                <choices id="choices_jkq_g1z_zx">
+                    <choice>Cash</choice>
+                    <choice>Check</choice>
+                    <choice>Credit Card</choice>
+                    <choice>Hokie Passport<note>If you are paying with cash or check, please mail
+                            the payments to Dr. Evia at 181 Turner St. NW, Blacksburg, VA 24061. If
+                            you are paying with credit card or Hokie Passport, please visit room 309
+                            in Shanks Hall to pay there.</note></choice>
+                </choices>
+            </step>
+            <step>
+                <cmd><b>Send</b> the payment to Dr. Carlos Evia in the Virginia Tech English
+                    Department</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

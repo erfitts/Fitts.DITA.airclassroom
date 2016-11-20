@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title/>
+ <topichead navtitle="About">
+  <topicref href="c-intro.dita"/>
+  <topicref href="c-airclassroom.dita"/>
+  <topicref href="c-undergrad.dita"/>
+ </topichead>
+ <topichead navtitle="How-To Guides">
+  <topicref href="t-pay.dita"/>
+  <topicref href="t-lights.dita"/>
+  <topicref href="t-mac.dita"/>
+  <topicref href="t-projector.dita"/>
+  <topicref href="t-sit.dita"/>
+ </topichead>
+ <topichead navtitle="References">
+  <topicref href="ts-schedule.dita"/>
+  <topicref href="c-conclusion.dita"/>
+ </topichead>
+</map>

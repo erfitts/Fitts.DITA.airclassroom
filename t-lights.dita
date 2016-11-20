@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nqn_b2z_zx">
+    <title>How to Turn on the Lights</title>
+    <shortdesc>This section will describe how a customer turns on the overhead lighting in an
+        Airclassroom rental.</shortdesc>
+    <taskbody>
+        <context>The location of the light switch will vary classroom to classroom, but the idea is
+            the same.</context>
+        <steps>
+            <step>
+                <cmd><b>Enter</b> the classroom</cmd>
+            </step>
+            <step>
+                <cmd><b>Locate </b>the light switch on the wall</cmd>
+            </step>
+            <step>
+                <cmd><b>Turn</b> the switch into the upright/on position</cmd>
+            </step>
+            <step>
+                <cmd><b>Bask</b> in the light</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

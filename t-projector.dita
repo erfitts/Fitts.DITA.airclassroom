@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lj1_5bz_zx">
+    <title>How to Turn on the Projector</title>
+    <shortdesc>This section will describe how a customer uses the projector in an Airclassroom
+        rental.</shortdesc>
+    <taskbody>
+        <context>This task was adapted from Epson's "Turning on the Projector" webpage.</context>
+        <steps>
+            <step>
+                <cmd><b>Connect</b> the power cord to the projetor's power inlet</cmd>
+            </step>
+            <step>
+                <cmd><b>Plug</b> the power cord into an electrical outlet.</cmd>
+            </step>
+            <step>
+                <cmd><b>Press</b> the power button on the projector or on the remote control to turn
+                    on the projector</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link
+            href="https://files.support.epson.com/htmldocs/bl475wi/bl475wiug/source/basic_use/tasks/projector_turn_on_no_sliding_lens_cover.html"
+            format="html" scope="external"/>
+    </related-links>
+</task>

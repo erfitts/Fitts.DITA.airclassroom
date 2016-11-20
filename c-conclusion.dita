@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dmb_sqy_zx">
+ <title>Thank you!</title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p>
+   <fig id="fig_vzh_15y_zx">
+    <image href="i-thank-you.png" scale="50" id="image_wzh_15y_zx"/>
+   </fig>
+   <fig>
+    <p>Thank you for visiting the Airclassroom website. We hope you have enjoyed your time learning
+     about our services. If you require additional assistance with the classrooms we offer, please
+     contact Dr. Carlos Evia by email at cevia@vt.edu or by phone (540) 231-5152, regardless of the
+     matter or time of day.</p>
+   </fig>
+  </p>
+ </conbody>
+</concept>

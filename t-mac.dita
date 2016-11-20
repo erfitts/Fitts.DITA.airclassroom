@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mxq_tcz_zx">
+    <title>How to Turn on the iMac</title>
+    <shortdesc>This section will describe how a customer turns on an iMac located in one of the
+        Shanks Hall Airclassroom rentals.</shortdesc>
+    <taskbody>
+        <context><fig id="fig_xk3_q4z_zx">
+                <title>iMac</title>
+                <image href="i-mac.jpeg" scale="50" id="image_yk3_q4z_zx"/>
+            </fig>This task was adapted from WikiHow's "How to Turn on a Mac Computer"
+            webpage.</context>
+        <steps>
+            <step>
+                <cmd><b>Locate</b> the Power button</cmd>
+            </step>
+            <step>
+                <cmd><b>Push</b> the Power button</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="http://www.wikihow.com/Turn-on-a-Mac-Computer" format="html" scope="external"/>
+    </related-links>
+</task>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dk3_3dz_zx">
+    <title>How to Properly Sit in an Office Chair</title>
+    <shortdesc>This section will describe how a customer should adjust his or her body to properly
+        sit in a chair in an Airclassroom rental.</shortdesc>
+    <taskbody>
+        <context><fig id="fig_djk_dpz_zx">
+                <title>Woman in Chair</title>
+                <image href="i-woman-in-chair.jpg" scale="50" id="image_ejk_dpz_zx"/>
+            </fig>This task was adapted from WikiHow's "How to Sit" webpage.</context>
+        <steps>
+            <step>
+                <cmd><b>Push</b> your hips as far back as they can go in the chair</cmd>
+            </step>
+            <step>
+                <cmd><b>Keep</b> your shoulders back and your back straight</cmd>
+            </step>
+            <step>
+                <cmd><b>Adjust</b> the seat height to fit your body</cmd>
+            </step>
+            <step>
+                <cmd><b>Adjust </b>the back of the chair to a 100°-110° reclined angle</cmd>
+            </step>
+            <step>
+                <cmd><b>Make </b>sure that your upper and lower back are supported</cmd>
+            </step>
+            <step>
+                <cmd><b>Adjust</b> the armrests</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="http://www.wikihow.com/Sit" format="html" scope="external"/>
+    </related-links>
+</task>
